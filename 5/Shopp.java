@@ -39,7 +39,7 @@ public class Shopp{
 				break;
 				
 				case 3:
-					return;
+					return;//结束函数
 				
 				default:
 					System.out.println("没有这个功能");
